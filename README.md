@@ -11,14 +11,15 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 ## Projects
 - Detection Lab
+- 
   
 
 
 
-## Tools
+## Skills/Tools
 
 
-### - Network
+### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -27,13 +28,13 @@ My journey in Information Technology has led me to develop a passion for Cyberse
     <img src="https://img.shields.io/badge/-NMAP-3c3ff1?&style=for-the-badge&logo=NMAP&logoColor=white" />
 </div>
 
-### - Digital Forenics
+### Digital Forenics
 <div>
     <img src="https://img.shields.io/badge/-Velociraptor-52ff33?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
     <img src="https://img.shields.io/badge/-AUTOPSY-ffa833?&style=for-the-badge&logo=AUTOPSY&logoColor=white" />
 </div>
 
-### - SIEM
+### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
