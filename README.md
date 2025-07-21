@@ -18,6 +18,10 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 ## Skills/Tools
 
+### Application Security 
+<div>
+    <img src="https://img.shields.io/badge/-BurpSuite-F36209?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
+
 
 ### Network
 <div>
