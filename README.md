@@ -17,7 +17,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Mapping & Packet Analysis         | Mapping & Monitoring lab |
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Digital Forensic analysis      | Forensic Investigation Lab |
 
 
 ## Tools
@@ -61,4 +61,5 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 ## Projects
 - Mapping & Monitoring lab
+- Forensic Investigation
 
