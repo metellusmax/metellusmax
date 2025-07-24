@@ -8,40 +8,44 @@ I am a current student at WGU, majoring in Cybersecurity with a passion for Info
 
 
 My journey in Information Technology has led me to develop a passion for Cybersecurity, and I am eager to be in this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
-## Projects
-- Detection Lab
-  
   
 
 
 
-## Skills/Tools
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Network Mapping & Packet Analysis         | Mapping & Monitoring lab |
+| Incident Response Planning and Execution      | SOC Automation Lab|
+
+
+## Tools
 
 ### Application Security 
 <div>
-    <img src="https://img.shields.io/badge/-BurpSuite-F36209?&style=for-the-badge&logo=PortSwigger&logoColor=white" />
+    <a href="https://portswigger.net/"><img src="https://img.shields.io/badge/-BurpSuite-F36209?&style=for-the-badge&logo=PortSwigger&logoColor=white" /></a>
 
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SNORT-f7887b?&style=for-the-badge&logo=SNORT&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NMAP-3c3ff1?&style=for-the-badge&logo=NMAP&logoColor=white" />
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
+    <a href="https://zeek.org/"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
+    <a href="https://www.snort.org/"><img src="https://img.shields.io/badge/-SNORT-f7887b?&style=for-the-badge&logo=SNORT&logoColor=white" /></a>
+    <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-NMAP-3c3ff1?&style=for-the-badge&logo=NMAP&logoColor=white" /></a>
 </div>
 
 ### Digital Forenics
 <div>
-    <img src="https://img.shields.io/badge/-Velociraptor-52ff33?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AUTOPSY-ffa833?&style=for-the-badge&logo=AUTOPSY&logoColor=white" />
+    <a href="https://docs.velociraptor.app/"><img src="https://img.shields.io/badge/-Velociraptor-52ff33?&style=for-the-badge&logo=Velociraptor&logoColor=white" /></a>
+    <a href="https://www.autopsy.com/"><img src="https://img.shields.io/badge/-AUTOPSY-ffa833?&style=for-the-badge&logo=AUTOPSY&logoColor=white" /></a>
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <a href="https://www.splunk.com/"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
+    <a href="https://www.elastic.co/"><img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /></a>
 </div>
 
 ## Certifications
@@ -54,4 +58,7 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 </div>
 
+
+## Projects
+- Mapping & Monitoring lab
 
