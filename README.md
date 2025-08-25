@@ -60,7 +60,5 @@ My journey in Information Technology has led me to develop a passion for Cyberse
 
 
 ## Projects
-- Mapping & Monitoring lab
-- Forensic Investigation
-- Home AD Lab
+- <a href="https://github.com/metellusmax/Home-AD-Lab">Home-AD-Lab</a>
 
