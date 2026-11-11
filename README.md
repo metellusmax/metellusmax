@@ -59,26 +59,23 @@ and infrastructure troubleshooting.
 ---
 
 
-### 🔧 Physical Data Center Technician Lab
+### 🔧 [Physical Data Center Technician Lab](https://github.com/metellusmax/)
 **Status: In Progress 🚧**
 
-Building a hands-on hardware lab using Dell OptiPlex equipment
-to develop practical data center technician skills.
+Building hands-on experience with physical IT infrastructure
+using a Dell OptiPlex 7010 SFF.
 
 **Project Focus:**
-- Hardware identification and inventory
-- Safe component handling and ESD procedures
-- RAM and storage installation
-- BIOS/UEFI configuration
-- Hardware diagnostics and troubleshooting
-- Bare-metal Ubuntu Server installation
-- Ethernet cabling and connectivity testing
-- Asset tracking and technical documentation
+- Hardware inspection, maintenance, and diagnostics
+- RAM servicing and SATA SSD installation
+- Bare-metal Ubuntu Server deployment
+- Linux system administration
+- Physical Ethernet networking
+- Structured cabling and cable testing
+- Managed switches and VLANs
+- Infrastructure deployment procedures
 
-**Goal:** Build practical experience working with physical
-computer hardware and infrastructure maintenance.
-
-🔗 **Repository: Coming Soon**
+🔗 **[View Project](https://github.com/metellusmax/)**
 
 ---
 
