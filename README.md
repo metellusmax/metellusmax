@@ -59,7 +59,7 @@ and infrastructure troubleshooting.
 ---
 
 
-### 🔧 [Physical Data Center Technician Lab](https://github.com/metellusmax/)
+### 🔧 [Physical Data Center Technician Lab](https://github.com/metellusmax/Physical-Data-Center-Technician-Lab)
 **Status: In Progress 🚧**
 
 Building hands-on experience with physical IT infrastructure
@@ -75,7 +75,7 @@ using a Dell OptiPlex 7010 SFF.
 - Managed switches and VLANs
 - Infrastructure deployment procedures
 
-🔗 **[View Project](https://github.com/metellusmax/)**
+🔗 **[View Project](https://github.com/metellusmax/Physical-Data-Center-Technician-Lab)**
 
 ---
 
