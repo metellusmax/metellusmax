@@ -97,6 +97,32 @@ Windows Server administration, networking, and security monitoring.
 
 🔗 **[View Project](https://github.com/metellusmax/Home-AD-Lab)**
 
+---
+### 🔐 [SOC Investigation Portfolio](https://github.com/metellusmax/SOC-Investigation-Portfolio-)
+**Status: Ongoing Improvements 🚧**
+
+A collection of hands-on cybersecurity investigations focused on
+security monitoring, threat detection, and incident analysis.
+
+**Key Skills Demonstrated:**
+- Security alert investigation and triage
+- Log analysis and threat identification
+- Network traffic analysis
+- Phishing and suspicious activity investigation
+- Incident documentation and reporting
+- Security operations fundamentals
+
+**Technologies & Platforms:**
+- Let's Defend
+- Wireshark
+- Security monitoring tools
+- Cybersecurity lab environments
+
+🔗 **[View Project](https://github.com/metellusmax/SOC-Investigation-Portfolio-)**
+
+
+
+
 ## 🛠️ Technical Skills
 
 ### Hardware & Infrastructure
